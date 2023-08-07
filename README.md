@@ -1,10 +1,8 @@
 # Final-Project-Classification-with-Python
 
-In this notebook, you will practice all the classification algorithms that we learned in this course.
+In this notebook, you will practice all the classification algorithms.
 
-After completing this notebook, you will need to upload it to the "Submit Your Work and Review Your Peers" section of the Final Project module.
-
-Below, is where we are going to use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metrics learned in the course.
+Below, is where we are going to use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metrics.
 
 We will use some of the algorithms taught in the course, specifically:
 Linear Regression
