@@ -4,7 +4,7 @@ In this notebook, you will practice all the classification algorithms.
 
 Below, is where we are going to use the classification algorithms to create a model based on our training data and evaluate our testing data using evaluation metrics.
 
-We will use some of the algorithms taught in the course, specifically:
+We will use some of the algorithms, specifically:
 Linear Regression
 KNN
 Decision Trees
